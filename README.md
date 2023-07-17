@@ -1,6 +1,8 @@
-#MERN-AI 3D app
+# MERN-AI 3D app
 
--Vite + React
--Node - Express
--Tailwind
--ThreeJS 3D
+https://mern-threejs-ai.netlify.app/
+
+- Vite + React
+- Node - Express
+- Tailwind
+- ThreeJS 3D
